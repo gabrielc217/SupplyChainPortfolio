@@ -48,7 +48,12 @@ Python/
 PowerBI/
 Images/
 Docs/
-Author
-Gabriel Contreras
+```
+
+## Author
+
+**Gabriel Contreras**
+
 Supply Chain & Logistics Technology Student
+
 Focused on supply chain analytics, manufacturing operations, production planning, and data-driven decision making.

@@ -6,8 +6,6 @@ This portfolio demonstrates how modern supply chain analytics can improve busine
 
 Each project builds upon the previous one, creating a complete supply chain analytics ecosystem centered around CONTRAX Industries.
 
----
-
 # Phase 1 — Business Foundation
 
 ## Repository Setup
@@ -18,7 +16,6 @@ Each project builds upon the previous one, creating a complete supply chain anal
 - Business Profile
 - Data Dictionary
 
----
 
 # Phase 2 — Data Engineering
 
@@ -29,16 +26,12 @@ Status: Not Started
 Description:
 Create the master list of products manufactured by CONTRAX Industries.
 
----
-
 ## Supplier Master
 
 Status: Not Started
 
 Description:
 Develop a fictional supplier database including lead times, quality ratings, and regions.
-
----
 
 ## Warehouse Master
 
@@ -47,8 +40,6 @@ Status: Not Started
 Description:
 Create manufacturing plants and distribution centers with location information.
 
----
-
 ## Customer Master
 
 Status: Not Started
@@ -56,21 +47,16 @@ Status: Not Started
 Description:
 Create fictional customers served by CONTRAX Industries.
 
----
-
 # Phase 3 — ERP Dataset
 
 ## Inventory Dataset
 
 Status: Not Started
 
----
 
 ## Purchase Orders
 
 Status: Not Started
-
----
 
 ## Sales Orders
 
@@ -125,7 +111,6 @@ Skills
 - forecasting
 - inventory optimization
 
----
 
 ## Power BI Dashboard
 

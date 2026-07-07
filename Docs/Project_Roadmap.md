@@ -10,7 +10,7 @@ Each project builds upon the previous one, creating a complete supply chain anal
 
 # Phase 1 — Business Foundation
 
-## ✅ Repository Setup
+## Repository Setup
 
 - GitHub Repository
 - Project Structure
@@ -76,19 +76,17 @@ Status: Not Started
 
 Status: Not Started
 
----
+
 
 ## Production Orders
 
 Status: Not Started
 
----
 
 ## Shipments
 
 Status: Not Started
 
----
 
 # Phase 4 — Analytics
 
@@ -103,8 +101,6 @@ Skills
 - Charts
 - KPI Reporting
 
----
-
 ## SQL Analytics
 
 Status: Not Started
@@ -116,8 +112,6 @@ Skills
 - GROUP BY
 - Window Functions
 - Views
-
----
 
 ## Python Analytics
 
@@ -144,8 +138,6 @@ Skills
 - Interactive Dashboards
 - Executive Reporting
 
----
-
 # Phase 5 — Executive Reporting
 
 ## Supply Chain Executive Dashboard
@@ -160,7 +152,7 @@ Deliverables
 - Demand Forecast
 - Executive Summary
 
----
+
 
 # Current Progress
 

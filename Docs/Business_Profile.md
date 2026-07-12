@@ -1,12 +1,14 @@
-# CONTRAX Industries
+# CONTRAX Piano Works
 
 ## Company Overview
 
-CONTRAX Industries is a fictional industrial manufacturing company created for educational and portfolio purposes.
+CONTRAX Piano Works is a fictional American piano manufacturer created for educational and professional portfolio purposes.
 
-The company designs, manufactures, and distributes industrial automation components for customers across North America.
+The company designs, manufactures, and distributes premium acoustic and digital pianos.
 
-No information in this portfolio is based on any real employer, internship, or proprietary data.
+This business was selected because piano is a personal interest of the portfolio creator and provides a realistic setting for studying manufacturing, procurement, inventory, production planning, warehousing, and logistics.
+
+No information in this portfolio is based on any real employer, internship, manufacturer, or proprietary dataset.
 
 ---
 
@@ -18,79 +20,135 @@ Dallas, Texas
 
 ## Industry
 
-Industrial Manufacturing
+Piano Manufacturing
+
+Musical Instruments
 
 Supply Chain
 
-Automation Components
-
-Operations
+Manufacturing Operations
 
 ---
 
 ## Company Size
 
-Employees: 1,250
+Employees: 1,100
 
 Manufacturing Facilities: 2
 
-Distribution Centers: 2
+Distribution Centers: 3
 
-Annual Revenue: $420 Million
+Annual Revenue: $325 Million
 
 ---
 
-## Manufacturing Plants
+## Manufacturing Facilities
 
-Dallas, Texas
+### Dallas, Texas
 
-Phoenix, Arizona
+- Corporate headquarters
+- Product engineering
+- Digital piano assembly
+- Final assembly
+- Quality assurance
+
+### Asheville, North Carolina
+
+- Wood processing
+- Cabinet manufacturing
+- Soundboard production
+- Acoustic piano assembly
 
 ---
 
 ## Distribution Centers
 
-Houston, Texas
+- Houston, Texas
+- Chicago, Illinois
+- Newark, New Jersey
 
-Nashville, Tennessee
+---
+
+## Product Lines
+
+### Heritage Series
+
+- Concert grand pianos
+- Semi-concert grand pianos
+- Baby grand pianos
+- Professional upright pianos
+
+### Studio Series
+
+- Studio upright pianos
+- Institutional pianos
+- Practice pianos
+
+### Digital Series
+
+- Home digital pianos
+- Professional digital pianos
+- Stage pianos
+- Hybrid pianos
+- MIDI controllers
+
+### Accessories
+
+- Piano benches
+- Sustain pedals
+- Piano covers
+- Music stands
+- Replacement components
+
+---
+
+## Customer Segments
+
+- Professional musicians
+- Universities
+- Music schools
+- Churches
+- Concert halls
+- Recording studios
+- Piano dealers
+- Residential customers
 
 ---
 
 ## Mission
 
-To deliver high-quality industrial automation products through operational excellence, data-driven decision making, and continuous improvement.
+To craft high-quality acoustic and digital pianos through precision manufacturing, skilled craftsmanship, responsible sourcing, and operational excellence.
 
 ---
 
 ## Core Business Functions
 
+- Strategic sourcing
 - Procurement
-- Production Planning
+- Production planning
 - Manufacturing
-- Inventory Management
+- Inventory management
+- Quality assurance
 - Warehousing
 - Logistics
-- Customer Service
-- Supply Chain Analytics
+- Sales and distribution
+- Supply chain analytics
 
 ---
 
 ## Technology Stack
 
-Excel
-
-Power BI
-
-Python
-
-SQL
-
-GitHub
+- Excel
+- SQL
+- Python
+- Power BI
+- GitHub
+- Visual Studio Code
 
 ---
 
 ## Portfolio Purpose
 
-This fictional company serves as the business environment for all projects contained in this repository.
+CONTRAX Piano Works serves as the fictional business environment for the projects in this repository.
 
-Every dashboard, dataset, SQL query, and Python analysis will be built around CONTRAX Industries.
+The portfolio will show how supply chain analytics can support piano manufacturing, inventory planning, supplier management, production operations, demand forecasting, and executive decision-making.

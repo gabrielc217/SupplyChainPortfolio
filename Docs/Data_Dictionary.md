@@ -1,6 +1,6 @@
 # Data Dictionary
 
-This document defines the core datasets used in the CONTRAX Industries supply chain analytics portfolio.
+This document defines the core datasets used in the CONTRAX Piano Works supply chain analytics portfolio.
 
 All data is fictional and created for educational and professional portfolio purposes.
 
@@ -13,9 +13,10 @@ All data is fictional and created for educational and professional portfolio pur
 | Product_ID | Unique product identifier |
 | Product_Name | Name of the product |
 | Category | Product category |
+| Product_Family | Product line or series |
 | Unit_Cost | Cost to manufacture or purchase one unit |
 | Sales_Price | Selling price per unit |
-| Primary_Supplier_ID | Main supplier for the product |
+| Supplier_ID | Primary supplier identifier |
 | Standard_Lead_Time_Days | Expected replenishment lead time |
 | Product_Status | Active or discontinued |
 

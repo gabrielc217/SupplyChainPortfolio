@@ -1,42 +1,68 @@
 # Supply Chain Analytics Portfolio
 
-Welcome to my supply chain analytics portfolio. This repository contains projects focused on manufacturing operations, inventory optimization, production planning, procurement analytics, SQL, Python, Excel, and Power BI.
+Welcome to my supply chain analytics portfolio.
 
-## About This Portfolio
+This repository is built around **CONTRAX Piano Works**, a fictional piano manufacturer created to demonstrate supply chain, manufacturing, operations, and analytics skills.
 
-This portfolio is built around **CONTRAX Industries**, a fictional manufacturing company created for educational and professional portfolio purposes.
+I chose piano manufacturing because music is a personal interest of mine, and I wanted the portfolio to connect that interest with my studies and career goals in supply chain and logistics.
 
-The goal of this portfolio is to demonstrate how data analytics can be used to solve real supply chain and operations problems, including inventory control, supplier performance, demand forecasting, production planning, and executive reporting.
+## About CONTRAX Piano Works
+
+CONTRAX Piano Works manufactures premium acoustic and digital pianos for musicians, schools, universities, churches, studios, and performance venues.
+
+The portfolio follows the development of an ERP-style system supporting:
+
+- Product and supplier master data
+- Inventory management
+- Purchasing
+- Production planning
+- Warehousing
+- Sales orders
+- Shipping
+- Supply chain reporting
 
 ## Disclaimer
 
-All companies, datasets, products, suppliers, customers, and business scenarios in this repository are fictional. No proprietary, confidential, employer, internship, or real company data is included.
+CONTRAX Piano Works is fictional.
+
+All companies, products, suppliers, customers, datasets, and business scenarios in this repository were created for educational and portfolio purposes.
+
+No proprietary, confidential, employer, internship, or real company data is included.
 
 ## Tools Used
 
 - Excel
-- Power BI
 - SQL
 - Python
+- Power BI
 - GitHub
 - Visual Studio Code
 
 ## Projects
 
-### 1. Inventory Optimization
-Analyze inventory levels, safety stock, reorder points, inventory turns, and carrying cost across multiple warehouses.
+### 1. Product and Supplier Master Data
 
-### 2. Supplier Performance Analytics
-Evaluate suppliers using on-time delivery, lead time variability, cost, and quality metrics.
+Build structured ERP-style product and supplier records for acoustic and digital piano manufacturing.
 
-### 3. Demand Forecasting
-Use historical demand data to forecast future sales and compare forecasting methods.
+### 2. Inventory Optimization
 
-### 4. Production Planning Dashboard
-Track work orders, WIP, capacity utilization, production completion, and bottlenecks.
+Analyze inventory levels, safety stock, reorder points, inventory turns, and carrying cost.
 
-### 5. Executive Supply Chain Dashboard
-Build a Power BI dashboard summarizing revenue, inventory, OTIF, lead times, purchasing, and production KPIs.
+### 3. Supplier Performance Analytics
+
+Evaluate suppliers using delivery performance, lead-time variability, quality, and cost.
+
+### 4. Demand Forecasting
+
+Forecast piano demand by product line and customer segment.
+
+### 5. Production Planning
+
+Track production orders, capacity, work in process, completion rates, and manufacturing delays.
+
+### 6. Executive Supply Chain Dashboard
+
+Build a Power BI dashboard summarizing inventory, purchasing, supplier performance, production, sales, and delivery KPIs.
 
 ## Repository Structure
 
@@ -48,12 +74,3 @@ Python/
 PowerBI/
 Images/
 Docs/
-```
-
-## Author
-
-**Gabriel Contreras**
-
-Supply Chain & Logistics Technology Student
-
-Focused on supply chain analytics, manufacturing operations, production planning, and data-driven decision making.

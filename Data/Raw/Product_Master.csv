@@ -1,0 +1,13 @@
+﻿Product_ID,Product_Name,Collection,Instrument_Type,Finish, MSRP , Standard_Cost ,Manufacturing_Plant_ID,Product_Status,Launch_Year,Weight_lb,Build_Time_Days
+CPW-HCG-001,Nocturne,Heritage,Concert Grand,,,,PLT-002,Active,2018,,
+CPW-HPG-001,Ballade,Heritage,Performance Grand,,,,PLT-002,Active,2020,,
+CPW-HBG-001,Rhapsody,Heritage,Baby Grand,,,,PLT-002,Active,2022,,
+CPW-SSU-001,Prelude,Studio,Studio Upright,,,,PLT-002,Active,2019,,
+CPW-SIU-001,Etude,Studio,Institutional Upright,,,,PLT-002,Active,2021,,
+CPW-SPU-001,Cadence,Studio,Professional Upright,,,,PLT-002,Active,2023,,
+CPW-DHD-001,Aria,Digital,Home Digital Piano,,,,PLT-001,Active,2022,,
+CPW-DSP-001,Tempo,Digital,Stage Piano,,,,PLT-001,Active,2024,,
+CPW-DHY-001,Resonance,Digital,Hybrid Piano,,,,PLT-001,Active,2025,,
+CPW-ACG-001,Maestro,Artist,Concert Grand,,,,PLT-002,Active,2017,,
+CPW-APG-001,Virtuoso,Artist,Performance Grand,,,,PLT-002,Active,2021,,
+CPW-ALE-001,Opus,Artist,Limited Edition Concert Grand,,,,PLT-002,Active,2026,,

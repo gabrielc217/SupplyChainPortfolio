@@ -1,76 +1,106 @@
-# Supply Chain Analytics Portfolio
+# CONTRAX Piano Works
 
-Welcome to my supply chain analytics portfolio.
+*A fictional premium piano manufacturer built to demonstrate modern supply chain, manufacturing, and business analytics.*
 
-This repository is built around **CONTRAX Piano Works**, a fictional piano manufacturer created to demonstrate supply chain, manufacturing, operations, and analytics skills.
+---
 
-I chose piano manufacturing because music is a personal interest of mine, and I wanted the portfolio to connect that interest with my studies and career goals in supply chain and logistics.
+## Why a Piano Company?
+
+I've always enjoyed playing piano, but after realizing my standing ovations were mostly coming from family, I decided supply chain was the safer career choice.
+
+CONTRAX Piano Works lets me combine both interests by creating a fictional premium piano manufacturer that serves as the foundation for this portfolio.
+
+Every dataset, dashboard, and analysis in this repository is built around the same company, allowing me to demonstrate supply chain concepts through a business I'm genuinely interested in.
+
+---
 
 ## About CONTRAX Piano Works
 
-CONTRAX Piano Works manufactures premium acoustic and digital pianos for musicians, schools, universities, churches, studios, and performance venues.
+CONTRAX Piano Works is a fictional American manufacturer of premium acoustic and digital pianos.
 
-The portfolio follows the development of an ERP-style system supporting:
+Rather than creating unrelated analytics projects, this repository follows one company through every stage of its supply chain—from sourcing raw materials and manufacturing pianos to inventory management, production planning, logistics, and executive reporting.
 
-- Product and supplier master data
-- Inventory management
-- Purchasing
-- Production planning
-- Warehousing
-- Sales orders
-- Shipping
-- Supply chain reporting
+Everything in this repository supports the same business, creating a connected and realistic analytics environment.
 
-## Disclaimer
+---
 
-CONTRAX Piano Works is fictional.
+## What You'll Find Here
 
-All companies, products, suppliers, customers, datasets, and business scenarios in this repository were created for educational and portfolio purposes.
+This portfolio demonstrates how data moves through a manufacturing company by building a fictional ERP-style environment from the ground up.
 
-No proprietary, confidential, employer, internship, or real company data is included.
+Projects include:
 
-## Tools Used
+- Product Master Data
+- Supplier Management
+- Purchase Orders
+- Production Planning
+- Inventory Management
+- Warehousing & Logistics
+- Demand Forecasting
+- Python Automation
+- SQL Analytics
+- Power BI Executive Dashboards
 
-- Excel
+---
+
+## Technology Stack
+
+- Microsoft Excel
 - SQL
 - Python
 - Power BI
-- GitHub
+- Git & GitHub
 - Visual Studio Code
 
-## Projects
-
-### 1. Product and Supplier Master Data
-
-Build structured ERP-style product and supplier records for acoustic and digital piano manufacturing.
-
-### 2. Inventory Optimization
-
-Analyze inventory levels, safety stock, reorder points, inventory turns, and carrying cost.
-
-### 3. Supplier Performance Analytics
-
-Evaluate suppliers using delivery performance, lead-time variability, quality, and cost.
-
-### 4. Demand Forecasting
-
-Forecast piano demand by product line and customer segment.
-
-### 5. Production Planning
-
-Track production orders, capacity, work in process, completion rates, and manufacturing delays.
-
-### 6. Executive Supply Chain Dashboard
-
-Build a Power BI dashboard summarizing inventory, purchasing, supplier performance, production, sales, and delivery KPIs.
+---
 
 ## Repository Structure
 
 ```text
-Data/
-Excel/
-SQL/
-Python/
-PowerBI/
-Images/
-Docs/
+SupplyChainPortfolio/
+│
+├── Data/
+│   ├── Raw/
+│   ├── Clean/
+│   └── Generated/
+│
+├── Docs/
+├── Excel/
+├── Images/
+├── PowerBI/
+├── Python/
+├── SQL/
+└── Archive/
+```
+
+---
+
+## Current Progress
+
+- Company identity established
+- Brand documentation completed
+- ERP master data in development
+- Supply chain datasets coming next
+- Analytics dashboards in progress
+
+---
+
+## Goals
+
+By the completion of this project, CONTRAX Piano Works will include:
+
+- A complete fictional ERP dataset
+- Integrated Excel, SQL, Python, and Power BI projects
+- Executive dashboards
+- Manufacturing and supply chain analytics
+- Business recommendations based on data
+
+---
+
+## About Me
+
+I'm Gabriel Contreras, a Supply Chain & Logistics Technology student at the University of Houston with interests in manufacturing, production planning, procurement, operations, and business analytics.
+
+This portfolio is my way of combining my interest in supply chain with one of my favorite hobbies—piano.
+
+If you're viewing this repository, thanks for stopping by!

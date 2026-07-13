@@ -1,10 +1,10 @@
-# CONTRAX Industries Portfolio Roadmap
+# CONTRAX Piano Works Portfolio Roadmap
 
 ## Current Focus
 
-I am building a supply chain analytics portfolio around CONTRAX Industries, a fictional manufacturing company.
+I am building a supply chain analytics portfolio around CONTRAX Piano Works, a fictional piano manufacturer.
 
-The purpose of this portfolio is to practice and demonstrate how Excel, SQL, Python, and Power BI can be used to analyze real supply chain problems.
+I chose piano manufacturing because music is a personal interest of mine, and I wanted to connect that interest with supply chain, manufacturing, and analytics.
 
 ## Completed
 
@@ -12,6 +12,7 @@ The purpose of this portfolio is to practice and demonstrate how Excel, SQL, Pyt
 - Folder structure
 - Business profile
 - Data dictionary
+- Product master design
 
 ## Next Steps
 
@@ -19,17 +20,20 @@ The purpose of this portfolio is to practice and demonstrate how Excel, SQL, Pyt
 - Build the supplier master
 - Create fictional inventory data
 - Create purchase order and sales order data
-- Analyze inventory performance
+- Create production and shipment data
+- Analyze inventory and supplier performance
 - Build dashboards and reports
 
 ## Project Goals
 
 This portfolio will focus on:
 
+- Piano manufacturing
 - Inventory management
 - Supplier performance
 - Demand forecasting
 - Production planning
+- Warehousing and distribution
 - Executive reporting
 
 All data and scenarios are fictional.
